@@ -1,11 +1,10 @@
-<!-- ========================================================= -->
-<!--                  GITHUB PROFILE README                    -->
-<!--          Premium Enterprise | Dark Purple Edition         -->
-<!-- ========================================================= -->
+
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,30:5B21B6,60:7C3AED,100:A855F7&text=Harshil%20Bhagora&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+
+
 
 # Harshil Bhagora
 
