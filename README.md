@@ -431,77 +431,13 @@ Completed intensive training in cybersecurity concepts with emphasis on ethical 
 
 ---
 
-# Coding Profiles
 
-<div align="center">
-
-<a href="https://github.com/harshil51">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harshil-bhagora-ab787a244/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshil51&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
----
 
 # GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=harshil51&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Top Languages
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil51&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
----
-
-# GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshil51&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</div>
-
----
-
-# Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshil51&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
