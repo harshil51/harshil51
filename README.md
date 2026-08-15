@@ -426,8 +426,7 @@ Completed intensive training in cybersecurity concepts with emphasis on ethical 
 | Google | Google Prompt Engineering |
 | Cyber Security | Cyber Job Simulation |
 | Kaushalya – The Skill University | Python Certification |
-| Healthcare | Basic Health Management System |
-| Healthcare | Advanced Acupressure Therapy |
+| Global Scoiety of Ayush | Advanced Acupressure Therapy |
 
 ---
 
