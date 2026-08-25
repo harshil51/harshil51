@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge"/>
+<a href="https://harshil-bhagora-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
 </a>
 
 <br><br>
